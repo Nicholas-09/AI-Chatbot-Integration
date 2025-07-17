@@ -5,3 +5,5 @@ I developed an AI chatbot integration designed to act as a 24/7 customer represe
 
 Challenges:
 One challenge I faced was ensuring the bot had enough specific information to handle more detailed or direct questions. Without comprehensive data, the bot often defaulted to escalating conversations to a live agent, highlighting the need for improved knowledge base content and deeper integration with business systems.
+# Prototype:
+https://creator.voiceflow.com/prototype/66bba224646d5d107fa8650d
